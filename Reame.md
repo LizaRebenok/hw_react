@@ -1,1 +1,2 @@
 # Homework description 
+Встановлення реакт
